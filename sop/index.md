@@ -1,41 +1,7 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 1
-
-Conversion time: 1.684 seconds.
 
 
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β35
-* Mon Jan 22 2024 17:20:08 GMT-0800 (PST)
-* Source doc: Copy of Law Enforcement SOPs
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-## **SAN ANDREAS \
-STANDARD OPERATING PROCEDURES** \
+## **SAN ANDREAS 
+STANDARD OPERATING PROCEDURES** 
 Used and Edited with permission from initial writers
 
 
@@ -45,7 +11,7 @@ Used and Edited with permission from initial writers
 
 ### GENERAL OVERVIEW
 
-As Police we serve the community around us not only by oath but by moral compass, we are the face and body of law enforcement all across the state of San Andreas. The Los Santos Police Department and San Andreas State Police work hand in hand, side by side and body by body in all matters to the greater Public. \
+As Police we serve the community around us not only by oath but by moral compass, we are the face and body of law enforcement all across the state of San Andreas. The Los Santos Police Department and San Andreas State Police work hand in hand, side by side and body by body in all matters to the greater Public. 
 
 
 
@@ -103,7 +69,7 @@ Officers shouldn’t abuse their powers to gain an advantage or better themselve
 
 Even off duty, officers will conduct themselves in a way that reflects their badge. Any reported misconduct toward civilians with malicious and/or unprofessional intent may be subject to disciplinary action.
 
- \
+ 
 
 
 
@@ -142,7 +108,7 @@ All officers will purchase their own vehicle for duty upon reaching the rank of 
 
         No police vehicles will be stored outside of police department premises when out of service. Violation of this will result in disciplinary action.
 
-There will be a general pool of vehicles kept within police department premises that are owned by the state. It is imperative that these vehicles are returned to the garage with the following: \
+There will be a general pool of vehicles kept within police department premises that are owned by the state. It is imperative that these vehicles are returned to the garage with the following: 
 		Over ¾ tank of gas 
 
 
@@ -158,7 +124,7 @@ In the event that a government vehicle, inclusive of Emergency Medical Services 
 
 All officers are expected to have a radio on their person and to have that radio on at all times whilst on duty.
 
-All officers should have clear and simple to the point communications, this is to reduce the delay in responding officers and for getting information across when in dire situations. \
+All officers should have clear and simple to the point communications, this is to reduce the delay in responding officers and for getting information across when in dire situations. 
 	Communications are to be sorted by Priority, this is so important information is conveyed and all officers are on the same page. This means Robberies, active pursuits and shootings take priority over Traffic Stops or lesser procedures.
 
 
@@ -207,10 +173,10 @@ This is a document to outline when any LEO can write a search and seizure on an 
 
 **Rule 3 **- If a warrants scope is based upon stolen officer equipment and in the raid you find illegal amounts of drugs as well as PD equipment the individual can only be charged with the stolen PD equipment and any other charges must be taken to the DA to press onto the individual. 
 
-**Rule 4** - When formatting a warrant, evidence is key. Always use pictures and bodycam footage to build up the warrant. However if a warrant is based on officer testimony there must be at least 2 eyewitness accounts unless it's related to stolen PD equipment where 1 officer report of events is enough. \
+**Rule 4** - When formatting a warrant, evidence is key. Always use pictures and bodycam footage to build up the warrant. However if a warrant is based on officer testimony there must be at least 2 eyewitness accounts unless it's related to stolen PD equipment where 1 officer report of events is enough. 
 
 
-**Rule 5** - When searching a property of someone in prison on HUT they must be shown a warrant first but they do not need to be brought on the raid like other suspects are when conducting a search and seizure.  \
+**Rule 5** - When searching a property of someone in prison on HUT they must be shown a warrant first but they do not need to be brought on the raid like other suspects are when conducting a search and seizure.  
 
 
 
@@ -226,7 +192,7 @@ If Officers witness, at any time on duty, a suspect involved in selling illegal 
 
 ##### Missing evidence items used in a crime
 
-If Officers are arresting an individual for a crime that involves shooting or stabbing, where the weapon is key evidence and the suspect is arrested but the weapon is not found on the suspect or located at the scene, this is enough probable cause for a Search and Seizure warrant. Before going through, the scene should be thoroughly searched for the weapon and a logical block radius should be searched. Evidence is always key, make sure to get pictures of the location, the details of the weapon missing including casings, serial number if possible. Note that warrants encompasses the owned properties of the suspect. \
+If Officers are arresting an individual for a crime that involves shooting or stabbing, where the weapon is key evidence and the suspect is arrested but the weapon is not found on the suspect or located at the scene, this is enough probable cause for a Search and Seizure warrant. Before going through, the scene should be thoroughly searched for the weapon and a logical block radius should be searched. Evidence is always key, make sure to get pictures of the location, the details of the weapon missing including casings, serial number if possible. Note that warrants encompasses the owned properties of the suspect. 
 
 
 
@@ -239,19 +205,19 @@ Anybody involved in a robbery, **clearly identified** by CCTV, body cam, picture
 * Police weaponry, such as pistols, tasers, and assault rifles
 * Police-grade Armor
 * Field Test Kits
-* Access Tool \
+* Access Tool 
 
 
 
 ##### Continued pattern of Sale of Drugs and possession over a 14 day period
 
-Anybody involved in a continued pattern of Sale of Drugs and continuing a pattern of possession charges, are liable for a Search and Seizure warrant of both properties and vehicles, due to the scope of the individuals having easy access to illegal Narcotics. Possession charges numbering 7 or more in a 14 day period. Sale charges of 5 or more in a 14 day period. Evidence is always key, make sure to note down and take a picture of the report file numbers of the possession charges. \
+Anybody involved in a continued pattern of Sale of Drugs and continuing a pattern of possession charges, are liable for a Search and Seizure warrant of both properties and vehicles, due to the scope of the individuals having easy access to illegal Narcotics. Possession charges numbering 7 or more in a 14 day period. Sale charges of 5 or more in a 14 day period. Evidence is always key, make sure to note down and take a picture of the report file numbers of the possession charges. 
 
 
 
 ##### Drug trafficking raid
 
-Anybody charged with Drug Trafficking is liable to a Search and Seizure of all properties and vehicles due to the case of Drug Trafficking, and having easy access to illegal Narcotics. Evidence is always key, make sure to note down and take a picture of the report file number for the Drug Trafficking charge. \
+Anybody charged with Drug Trafficking is liable to a Search and Seizure of all properties and vehicles due to the case of Drug Trafficking, and having easy access to illegal Narcotics. Evidence is always key, make sure to note down and take a picture of the report file number for the Drug Trafficking charge. 
 
 
 
@@ -270,7 +236,7 @@ Anybody involved in the Sale of Illegal firearms and possess 6 or more illegal f
 Criminal Investigations are a shared responsibility. It is the responsibility of the senior-most officer on duty at the time of an incident to delegate and compile evidence among any subordinates chosen to help with an investigation.
 
 
-#####  \
+#####  
 Chain of Command
 
 The senior-most officer on duty at the time of the scene that opens an investigation is the officer in charge of the case unless one of the following occurs:
@@ -295,7 +261,7 @@ All evidence needs to be noted in the case file with notes regarding the followi
 * Any tests or proofs the evidence provides (i.e. Positive fingerprint ID, blood type, etc.)
 
 
-#####  \
+#####  
 Witness Accounts
 
 Witness accounts are a form of evidence that will need to be typed up and submitted. These accounts will need to be submitted in the form of the following:
@@ -306,15 +272,15 @@ Witness accounts are a form of evidence that will need to be typed up and submit
 * Audio evidence of the interview
 * Signed statement from the witness, which can be submitted to court anonymously
 
-In addition to the above, witness accounts must be submitted with the date of collection. \
- \
+In addition to the above, witness accounts must be submitted with the date of collection. 
+ 
 
 
 
 ##### Case File
 
-All evidence needs to be noted in the case file with notes regarding evidence numbers if the evidence is not attached to the file. In the case that legal forms must be submitted, such as a warrant, copies must be placed within the file upon submission. The officer in charge of the case will ensure that all information in the file is relevant to the case and present updates to Command with breakthroughs, as well as additional suspects. \
- \
+All evidence needs to be noted in the case file with notes regarding evidence numbers if the evidence is not attached to the file. In the case that legal forms must be submitted, such as a warrant, copies must be placed within the file upon submission. The officer in charge of the case will ensure that all information in the file is relevant to the case and present updates to Command with breakthroughs, as well as additional suspects. 
+ 
 
 
 
@@ -348,7 +314,7 @@ There is a limit of two HSP units allowed in the field at a time.
 
 Unlike other ground vehicles, these units are not to be taken out on regular patrols around the state. 
 
- \
+ 
 **_Situations where a unit can be deployed include:_**
 
 
@@ -360,7 +326,7 @@ Unlike other ground vehicles, these units are not to be taken out on regular pat
 * Hostage Situations where a vehicular getaway is possible.
 
 
-##### Air, Land, and Sea Unit \
+##### Air, Land, and Sea Unit 
 
 
 The ALS Unit is a division of highly trained officers that have been trusted with handling state of the art police helicopters and boats during pursuits and on normal patrols. 
@@ -370,7 +336,7 @@ The ALS Unit is a division of highly trained officers that have been trusted wit
 
 The unit has the ability to provide effective airborne surveillance and give support to the police units on the ground, whether this is with maintaining contact during a high speed chase or keeping track of suspects as they flee on foot through rough terrain. Air support can also be used to help as a means of search and rescue when necessary, though this is not our primary mission. Troopers and upward will be considered for the position however these certifications are not to be given out lightly and require mastery of both fields of support. 
 
-**_When the helicopter can be deployed:_ \
+**_When the helicopter can be deployed:_ 
 **There is no specific incident that is required for the helicopter to be deployed however it must be a situation where responding via Air Support is necessary and actually needed. The helicopter is not a toy and should only be deployed when absolutely necessary. This includes situations such as:
 
 
@@ -380,11 +346,11 @@ The unit has the ability to provide effective airborne surveillance and give sup
 * Pursuits with multiple vehicles/occupants. (Use to catch plates etc.)
 * Hostage situations where an eye from the sky may be of help. 
 
-**_Who can use the Air Support:_ \
+**_Who can use the Air Support:_ 
 **Anyone that has the appropriate certs, and Captain+ has the ability to pilot the helicopters as necessary. The Co-Pilot seat can be taken by anyone above the rank of Cadet however they must be fit and ready and have adequate knowledge of the city and they will preferably have prior experience using the high tech cameras on board.
 
-**_Uniform Whilst Flying:_ \
-**There is no specific uniform that pilots must wear outside of normal uniform due to the lower altitudes and slower speeds that we fly at; however it is recommended to wear ear protection whilst on board due to the 80+ decibels coming from the helicopter as it flies. \
+**_Uniform Whilst Flying:_ 
+**There is no specific uniform that pilots must wear outside of normal uniform due to the lower altitudes and slower speeds that we fly at; however it is recommended to wear ear protection whilst on board due to the 80+ decibels coming from the helicopter as it flies. 
 
 
 **_Altitude:_**
@@ -393,7 +359,7 @@ Helicopters must always be kept at a safe and reasonable altitude whilst in flig
 
 Another reason to fly at higher altitudes is the ability to remain hidden. Flying high means you can often follow suspects without them even knowing, resulting in a successful capture.  
 
-**_Current fleet vehicles for ALS Air include:_** \
+**_Current fleet vehicles for ALS Air include:_** 
 	Buckingham Conada
 
 	Buckingham Maverick
@@ -407,7 +373,7 @@ The Marine One boat is not to be "Beached" at any stage unless in a very dangero
 
 In the event that an individual jumps into the water, an officer is fully authorized to jump in after and to perform a “Beat Down” with their fist, due to the severity of this situation the individual is attempting to escape from the police they may become dangerous and brandish a blade in the water, there for the officer is to be extra cautious of this before jumping into the water.
 
-**_Current fleet vehicles for ALS Sea include:_** \
+**_Current fleet vehicles for ALS Sea include:_** 
 	Nagasaki Dinghy
 
 
@@ -424,7 +390,7 @@ Motorbike certifications will be earned through the completion and mastery of th
 * During 10-80s, the motorcycle should be the primary unit when in pursuit of motorcycles. If a patrol vehicle stands a better chance of catching up to the vehicle, you are to let them pass at the next safest opportunity.
 * If tactical contact is authorized in a 10-80, motorcycle units should withdraw from the primary position and allow a patrol vehicle to carry out the maneuver. Any motorcycle caught attempting to make contact with a vehicle will be suspended from service under the discretion of the commanding officer.
 
-**_Current fleet vehicles for MRU include:_** \
+**_Current fleet vehicles for MRU include:_** 
 	Nagasaki Shinobi
 
 
